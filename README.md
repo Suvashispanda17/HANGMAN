@@ -1,1 +1,2 @@
-# HANGMAN
+# HANGMAN HTML CSS JS
+Hangman : It is a word guessing trivia (word-guessing) classic. One player picks a word and the other person has to guess it by saying letters in x amount of turns. The word is shown by a row of dashes, representing one for each letter, and if the player makes an incorrect guess famous stick figure — hangman starts being drawn. If a person guesses the incorrect letters, A part of hangman is drawn one by one after every wrong guess and if all parts are seen then it means you have missed that letter thus runner loose or can get hanged in another sense
